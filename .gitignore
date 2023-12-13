@@ -1,3 +1,7 @@
 *.pyc
 __pycache__/
 .tox/
+
+tests/indexdir/
+
+src/Whoosh.egg-info/
